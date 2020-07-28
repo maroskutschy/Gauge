@@ -1,0 +1,5 @@
+# I login to facebook with email <email> and password <password>
+* I populate value <email> in Email or Phone editbox
+* I populate value <password> in Password editbox
+* I click on Log In button
+
